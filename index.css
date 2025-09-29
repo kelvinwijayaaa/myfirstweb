@@ -1,4 +1,12 @@
-body {
+
+h1 {
+    background-color: beige;
+    text-align: center;
+    font-size: 42px;
+    letter-spacing: 12px;
+    font-family: Arial;
+}
+h3 {
     background-color: beige;
     text-align: center;
     font-size: 42px;
